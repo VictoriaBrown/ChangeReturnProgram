@@ -1,16 +1,16 @@
 
 import javax.swing.JOptionPane;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/* Change Return Program
+The user enters a cost and then the amount of money given. The program will
+figure out the change and the number of quarters, dimes, nickels, pennies
+needed for the change. Contributor contributes a user interface and loop code of similar processes.
+Programmer:             Victoria Brown
+Date:                   September 2016
+Contributor:			John Eric Paglinawan
+Date:					November 2016
+ChangeReturn.java    */
 
-/**
- *
- * @author crashia
- */
 public class ChangeReturn extends javax.swing.JFrame {
     // Variables
     private final double bill[]={100,50,20,10,5,1,0.25,0.10,0.05,0.01};
